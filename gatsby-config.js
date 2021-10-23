@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/titanium_play",
   siteMetadata: {
     title: `TITANIUM PORTFOLIO`,
     description: `TITANIUM PORTFOLIO`,
